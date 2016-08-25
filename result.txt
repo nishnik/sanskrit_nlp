@@ -1,0 +1,155 @@
+             precision    recall  f1-score   support
+
+          A       0.88      0.39      0.54        18
+          B       0.70      0.77      0.73       337
+          D       0.65      0.44      0.52        84
+          T       0.75      0.75      0.75       436
+
+avg / total       0.72      0.72      0.72       875
+
+1 Accuracy: 0.722285714286
+
+
+
+
+
+
+             precision    recall  f1-score   support
+
+          A       0.91      0.75      0.82        28
+          B       0.67      0.77      0.72       349
+          D       0.62      0.39      0.47        83
+          T       0.73      0.70      0.71       415
+
+avg / total       0.70      0.70      0.70       875
+
+2 Accuracy: 0.699428571429
+
+
+
+
+
+
+             precision    recall  f1-score   support
+
+          A       0.69      0.69      0.69        13
+          B       0.71      0.75      0.73       383
+          D       0.59      0.34      0.43        87
+          T       0.70      0.72      0.71       392
+
+avg / total       0.69      0.70      0.69       875
+
+3 Accuracy: 0.698285714286
+
+
+
+
+
+
+             precision    recall  f1-score   support
+
+          A       0.67      0.33      0.44        18
+          B       0.70      0.74      0.72       372
+          D       0.58      0.40      0.47        95
+          T       0.69      0.72      0.70       390
+
+avg / total       0.68      0.69      0.68       875
+
+4 Accuracy: 0.685714285714
+
+
+
+
+
+
+             precision    recall  f1-score   support
+
+          A       0.90      0.69      0.78        13
+          B       0.66      0.75      0.70       353
+          D       0.73      0.42      0.54       106
+          T       0.71      0.71      0.71       403
+
+avg / total       0.69      0.69      0.69       875
+
+5 Accuracy: 0.689142857143
+
+
+
+
+
+
+             precision    recall  f1-score   support
+
+          A       0.62      0.42      0.50        19
+          B       0.72      0.76      0.74       376
+          D       0.68      0.42      0.52        95
+          T       0.69      0.72      0.71       385
+
+avg / total       0.70      0.70      0.69       875
+
+6 Accuracy: 0.699428571429
+
+
+
+
+
+
+             precision    recall  f1-score   support
+
+          A       0.79      0.71      0.75        21
+          B       0.66      0.67      0.67       348
+          D       0.59      0.40      0.48       100
+          T       0.67      0.72      0.70       406
+
+avg / total       0.66      0.67      0.66       875
+
+7 Accuracy: 0.665142857143
+
+
+
+
+
+
+             precision    recall  f1-score   support
+
+          A       0.93      0.67      0.78        21
+          B       0.70      0.72      0.71       353
+          D       0.66      0.41      0.50        98
+          T       0.69      0.74      0.71       403
+
+avg / total       0.69      0.69      0.69       875
+
+8 Accuracy: 0.693714285714
+
+
+
+
+
+
+             precision    recall  f1-score   support
+
+          A       0.65      0.59      0.62        22
+          B       0.69      0.69      0.69       384
+          D       0.61      0.40      0.48        97
+          T       0.64      0.70      0.67       372
+
+avg / total       0.66      0.66      0.66       875
+
+9 Accuracy: 0.660571428571
+
+
+
+
+
+
+             precision    recall  f1-score   support
+
+          A       0.80      0.60      0.69        20
+          B       0.69      0.73      0.71       365
+          D       0.65      0.34      0.44        92
+          T       0.66      0.71      0.69       398
+
+avg / total       0.68      0.68      0.67       875
+
+10 Accuracy: 0.677714285714
+
